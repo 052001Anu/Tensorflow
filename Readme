@@ -1,0 +1,9 @@
+Unwanted or unsolicited emails that are sent to users in large quantities are referred to as spam messages. The majority of messaging/emailing services automatically identify messages as spam in order to prevent them from filling users' inboxes needlessly. Typically, these communications are oddball and promotional in character. As a result, we could create ML/DL models that include spam message detection capabilities.
+Identifying Spam Emails in Python with Tensorflow
+To put it another way, we need to identify whether the letters are spam or ham. To that end, we will construct a TensorFlow-based spam detector in this post. This suggests that one example of a text classification issue is spam detection. Thus, we will be developing a text classification model and applying EDA to our dataset.
+Importing Libraries
+Python libraries make it very easy for us to handle the data and perform typical and complex tasks with a single line of code.
+Pandas – This library helps to load the data frame in a 2D array format and has multiple functions to perform analysis tasks in one go.
+Numpy – Numpy arrays are very fast and can perform large computations in a very short time.
+Matplotlib/Seaborn/Wordcloud– This library is used to draw visualizations.
+NLTK – Natural Language Tool Kit provides various functions to process the raw textual data.
